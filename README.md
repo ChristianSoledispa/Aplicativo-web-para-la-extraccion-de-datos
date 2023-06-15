@@ -1,2 +1,2 @@
-# Aplicativo-web-para-la-extraccion-de-datos
+# Aplicativo web para la extraccion de datos
 TIC Christian Soledispa
